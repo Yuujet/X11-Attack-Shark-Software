@@ -1,5 +1,6 @@
-<a id="readme-top">
-</a>
+###
+  > [!Warning]
+  > A instalação é por conta e risco do usuário!
 
 
 <br />
@@ -13,6 +14,8 @@
     <br />
     <a href="https://www.twitch.tv/jetee0"><strong>JeTe</strong></a>
     <br />
+    <br />
+    <a href="#">Discord</a>
     <br />
   </p>
 </div>
