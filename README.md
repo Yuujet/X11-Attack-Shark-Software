@@ -15,7 +15,7 @@
     <a href="https://www.twitch.tv/jetee0"><strong>JeTe</strong></a>
     <br />
     <br />
-    <a href="#">Discord</a>
+    <a href="https://discord.gg/truC2Wv4pg">Discord</a>
     <br />
   </p>
 </div>
